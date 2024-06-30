@@ -72,7 +72,7 @@
 
 <!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
 
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img>
+<!--img src="https://cr-summary-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img>
 <!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&show-other-skills=true" width="auto"></img>
 
@@ -84,7 +84,7 @@
 <a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
 
-<div align="center">
+<!--div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
 </div>
 
@@ -109,7 +109,7 @@ graph TD;
  
 
 
-<div align="center">
+<!--<div align="center">
 <summary>Trophy: Hackerrank Profile Trophy</summary>
 </div>
 
@@ -122,7 +122,7 @@ width="30%">
 
 
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<img src="/github-metrics.svg" alt="Metrics" width="100%">-->
 
 
 
@@ -157,10 +157,10 @@ width="30%">
 ```
 
 
-![badges_37-46.png](src%2Fbadges_37-46.png)
+<!--![badges_37-46.png](src%2Fbadges_37-46.png)
 ![badges_25-36.png](src%2Fbadges_25-36.png)
 ![badges_13-24.png](src%2Fbadges_13-24.png)
-![badges_1-12.png](src%2Fbadges_1-12.png)
+![badges_1-12.png](src%2Fbadges_1-12.png)-->
 
 
 #### Thanks for visiting :heart:
@@ -172,9 +172,7 @@ counting of visitors to this page in this section started from May 8, 2022
 <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=BEPb/BEPb&type=Date)](https://star-history.com/#BEPb/BEPb&Date)
 
 
 
