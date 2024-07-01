@@ -123,26 +123,31 @@ graph TD;
 ###  China - My Home
   
  ```geojson
-{
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [23.5,53.9],
-             [32.6,52.6]
-         ]
-       ]
-     }
-   }
- ]
+
+{  
+  "type": "FeatureCollection",  
+  "features": [  
+    {  
+      "type": "Feature",  
+      "id": 1,  
+      "properties": {  
+        "ID": 0,  
+        "name": "Beijing Simplified Area"  
+      },  
+      "geometry": {  
+        "type": "Polygon",  
+        "coordinates": [  
+          [  
+            [116.3, 39.9],  
+            [116.4, 39.9],  
+            [116.4, 39.8], 
+            [116.3, 39.8]   
+            
+          ]  
+        ]  
+      }  
+    }  
+  ]  
 }
 
 ```
@@ -166,6 +171,7 @@ counting of visitors to this page in this section started from May 8, 2022
 
 ### Profile Views
 counting of visitors to this page in this section started from June 12, 2022
+
 ![](https://count.getloli.com/get/@BEPb.github.readme)
 </br>
 [MIT](LICENSE)
