@@ -10,17 +10,32 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=XES8.XES8" alt="visitors"/>   
 </p>
 
+
+
+
+
 <!--   my-header-img -->
 ![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
+
+
+
 
 
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
 
+
+
+
+
+
 <a href="https://tryhackme.com/signup?referrer=6606c6ff813081fdb556602e"><img src="https://tryhackme-badges.s3.amazonaws.com/andrej.marinchenko.png" alt="TryHackMe"></a>
 <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
+
+
 
 
 <!--   my-kaggle     
@@ -50,7 +65,7 @@
 <!--   green snake -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 <!--   stats + languages -->
-| .                                                                                                                                       | .                                                                                                                         |
+|                                        ESX                                                                                            |            SEX                                                                                                              |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=XES8&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=XES8&theme=radical&layout=compact) |
 
@@ -77,10 +92,10 @@
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://x.com/SEXX520" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/es-s-a66b16316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="https://x.com/SEXX520" target="blank"><img align="center" src="https://raw.githubusercontent.com/XES8/XES8/master/assets/twitter.svg" alt="XES8" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/es-s-a66b16316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/XES8/XES8/master/assets/linkedin.svg" alt="XES8" height="30" width="30" /></a>
 <a href="mailto:mingwenjie.sex@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<!--a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>-->
+
 </p>
 
 
@@ -160,11 +175,11 @@ counting of visitors to this page in this section started from May 8, 2022
 
 ### Profile Views
 counting of visitors to this page in this section started from June 12, 2022
-
 ![](https://count.getloli.com/get/@BEPb.github.readme)
 </br>
-
 [MIT](LICENSE)
+
+
 
 
 </p>
